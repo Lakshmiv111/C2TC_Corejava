@@ -14,7 +14,9 @@ public void m1(float f, int i)
 		Test t = new Test();
 		t.m1(10,10.5f);
 		t.m1(10.5f,10);
-
+        
 	}
 
 }
+//t.m1(10,10); compiler error
+ //t.m1(10.5f, 10.5f);  compiler error
