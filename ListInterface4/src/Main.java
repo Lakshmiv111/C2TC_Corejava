@@ -21,10 +21,9 @@ val2.add(500);
 
 val2.add(800);
 
-val2.addAll(val1);
 val1.addAll(val2);
 
-System.out.println(val1);
+
 System.out.println(val2);
 }
 
