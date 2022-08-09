@@ -1,3 +1,8 @@
+//Imagine you are about to meet your school friends after long time. You have planned to
+//play cards with your friends , but your friends are unaware of how shuffling works in
+//playing cards, so write a program in Java to give the shuffled cards as the output to
+//proceed your game with fun.
+
 import java.util.*;
 
 public class Main
